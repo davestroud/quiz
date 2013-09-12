@@ -83,8 +83,6 @@
 		633EDBEA17E22B9900F8DD16 /* Quiz */ = {
 			isa = PBXGroup;
 			children = (
-				633EDBF317E22B9900F8DD16 /* QuizAppDelegate.h */,
-				633EDBF417E22B9900F8DD16 /* QuizAppDelegate.m */,
 				633EDBFC17E22B9900F8DD16 /* QuizViewController.h */,
 				633EDBFD17E22B9900F8DD16 /* QuizViewController.m */,
 				633EDBFF17E22B9900F8DD16 /* QuizViewController.xib */,
@@ -96,6 +94,8 @@
 		633EDBEB17E22B9900F8DD16 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				633EDBF417E22B9900F8DD16 /* QuizAppDelegate.m */,
+				633EDBF317E22B9900F8DD16 /* QuizAppDelegate.h */,
 				633EDBEC17E22B9900F8DD16 /* Quiz-Info.plist */,
 				633EDBED17E22B9900F8DD16 /* InfoPlist.strings */,
 				633EDBF017E22B9900F8DD16 /* main.m */,
