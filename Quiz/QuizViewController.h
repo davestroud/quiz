@@ -13,8 +13,8 @@
     int currentQuestionIndex;
     
     // The model objects
-    NSMutableString *questions;
-    NSMutableString *answers;
+    NSMutableArray *questions;
+    NSMutableArray *answers;
     
     //  The view objects - don't worry about IBOutlet
     IBOutlet UILabel *questionField;
