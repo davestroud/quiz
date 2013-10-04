@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D95A00F-323B-4423-8B90-E36A7F21E8CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quiz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10CCDFCA-AAD5-4446-B08E-4E1414462849</key>
+		<string>ssh://github.com/davestroud/quiz.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quiz.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10CCDFCA-AAD5-4446-B08E-4E1414462849</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/davestroud/quiz.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10CCDFCA-AAD5-4446-B08E-4E1414462849</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10CCDFCA-AAD5-4446-B08E-4E1414462849</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quiz</string>
+		</dict>
+	</array>
+</dict>
+</plist>
