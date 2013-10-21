@@ -16,11 +16,15 @@
     NSMutableArray *questions;
     NSMutableArray *answers;
     
-    //  The view objects - don't worry about IBOutlet
+    //  The view objects - IBOutlet allows you to connect your controller
+    //  and view objects in the XIB file
     IBOutlet UILabel *questionField;
     IBOutlet UILabel *answerField;
 }
 
+
+// Methods to be triggered - IBAction allows you to connect your controller
+// and view objects in the XIB file
 - (IBAction)showQuestion:(id)sender;
 - (IBAction)showAnswer:(id)sender;
 
