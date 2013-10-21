@@ -28,6 +28,9 @@
         
         [questions addObject:@"What is the capital of Vermont?"];
         [answers addObject:@"Montpelier"];
+        
+        [questions addObject:@"What is the Capital of Georgia?"];
+        [answers addObject:@"Atlanta"];
     }
     return self;
 }
